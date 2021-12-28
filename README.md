@@ -8,7 +8,7 @@
 <a href="#"><img title="JANGO_V2" src="https://img.shields.io/badge/JANGO_V2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/nijin-husni"><img title="Author" src="https://img.shields.io/badge/Author-akku-/MAALUTTY_V2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/AKMODS"><img title="Author" src="https://img.shields.io/badge/Author-akku-/JANGO_V2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -19,11 +19,11 @@ Project created by <a href="https://github.com/akku">Muhammad Afzal </a> to make
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nijin-husni/MAALUTTY_V2&title=MAALUTTY_V2%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AKMODS/JANGO_V2&title=JANGO_V2%20Views)
 
 get extra feturs use maalutty v3😍⏬
 
-[![Maalutty Card](https://github-readme-stats.vercel.app/api/pin/?username=nijin-husni&repo=MAALUTTY_V3&theme=nightowl)](https://github.com/nijin-husni/MAALUTTY_V3)
+[![Maalutty Card](https://github-readme-stats.vercel.app/api/pin/?username=AKMODS&repo=MAALUTTY_V3&theme=nightowl)](https://github.com/AKMODS/MAALUTTY_V3)
   </div>
     
 
@@ -35,15 +35,15 @@ get extra feturs use maalutty v3😍⏬
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTY-QR)
   
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nijin-husni/MAALUTTY_V2) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AKMODS/JANGO_V2) 
  
 ### The Hard Method
 ```js
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/nijin-husni/MAALUTTY_V2
-$ cd MAALUTTY_V2
+$ git clone https://github.com/AKMODS/JANGO_V2
+$ cd JANGO_V2
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node maalutty.js
@@ -51,8 +51,8 @@ $ node maalutty.js
       
 ```js
 SETUP
-$ git clone https://github.com/nijin-husni/MAALUTTY_V2
-$ cd MAALUTTY_V2
+$ git clone https://github.com/AKMODS/JANGO_V2
+$ cd JANGO_V2
 $ npm i
 $ node maalutty.js
 ```
@@ -60,15 +60,15 @@ $ node maalutty.js
 ----
 
   <p align="center">
-  <a href="httsp://github.com/nijin-husni/MAALUTTY_V2">
+  <a href="httsp://github.com/AKMODS/JANGO_V2">
     
 <a href="https://github.com/farhan-dqz/followers">
 <img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/nijin-husni/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/nijin-husni?color=blue&style=flat-square"></a>
-<a href="https://github.com/nijin-husni/MAALUTTY_V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nijin-husni/MAALUTTY_V2?color=blue&style=flat-trangle"></a>
-<a href="https://github.com/nijin-husni/MAALUTTY_V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nijin-husni/MAALUTTY_V2?color=blue&style=flat-trangle"></a>
+<a href="https://github.com/AKMODS/followers"
+<img title="Followers" src="https://img.shields.io/github/followers/AKMODS?color=blue&style=flat-square"></a>
+<a href="https://github.com/AKMODS/JANGO_V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AKMODS/JANGO_V2?color=blue&style=flat-trangle"></a>
+<a href="https://github.com/AKMODS/JANGO_V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AKMODS/JANGO_V2?color=blue&style=flat-trangle"></a>
 </p>
 
 ## 📢 Guide
@@ -87,18 +87,14 @@ Click WA logo to Join public bot Group👇
 
   </div>
 
-### youtube👇
-
-[![subscribe](https://i.ibb.co/mqttCVQ/images-1-1.png)](https://youtube.com/channel/UCllom1TvXieyxcGaanSpMvA)
-
 
 ### contact on instagram👇
 
-[![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://www.instagram.com/_husni_ser_/)
+[![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://www.instagram.com/_4fzl._/)
 
-### ❤️ MAALUTTY_V2 💙 website⤵️
+### ❤️ JANGO_V2 💙 website⤵️
 
-[![view](https://i.ibb.co/cyXKpj7/images-7-1-1.jpg)](https://maalutty_v2nijinhusni.blogspot.com)
+[![view](https://i.ibb.co/cyXKpj7/images-7-1-1.jpg)](https://JANGO_V2nijinhusni.blogspot.com)
 
 
 ### ⚠️ Warning! 
@@ -112,13 +108,12 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer
   <div align="center">
     
-![nijin-husni](https://github.com/nijin-husni.png?size=100)
+![AKMODS](https://github.com/AKMODS.png?size=100)
 
- [nijin-husni](https://github.com/nijin-husni)
+ [AKMODS](https://github.com/AKMODS)
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
-
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
