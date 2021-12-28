@@ -92,11 +92,6 @@ Click WA logo to Join public bot Group👇
 
 [![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://www.instagram.com/_4fzl._/)
 
-### ❤️ JANGO_V2 💙 website⤵️
-
-[![view](https://i.ibb.co/cyXKpj7/images-7-1-1.jpg)](https://JANGO_V2nijinhusni.blogspot.com)
-
-
 ### ⚠️ Warning! 
 ```
 Due to Userbot; Your WhatsApp account may be banned.
