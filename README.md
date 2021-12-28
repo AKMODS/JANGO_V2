@@ -5,14 +5,14 @@
 <div align="center">
   <img border-radius: 15px src="Jangoser.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="JANGO_V2" src="https://img.shields.io/badge/MAALUTTY_V2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="JANGO_V2" src="https://img.shields.io/badge/JANGO_V2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/nijin-husni"><img title="Author" src="https://img.shields.io/badge/Author-Husnijin-/MAALUTTY_V2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/nijin-husni"><img title="Author" src="https://img.shields.io/badge/Author-akku-/MAALUTTY_V2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to make it public
+Project created by <a href="https://github.com/akku">Muhammad Afzal </a> to make it public
     <br>
        | © |
         Reserved |
