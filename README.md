@@ -19,14 +19,6 @@ Project created by <a href="https://github.com/akku">Muhammad Afzal </a> to make
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AKMODS/JANGO_V2&title=JANGO_V2%20Views)
-
-get extra feturs use maalutty v3😍⏬
-
-[![Maalutty Card](https://github-readme-stats.vercel.app/api/pin/?username=AKMODS&repo=MAALUTTY_V3&theme=nightowl)](https://github.com/AKMODS/MAALUTTY_V3)
-  </div>
-    
-
 ## Setup
 <div align="center">
 
